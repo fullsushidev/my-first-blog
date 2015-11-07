@@ -6,4 +6,4 @@ girls = ['Rachel', 'Monica', 'Phoebe', 'Ola', 'You']
 
 for name in girls:
     hi(name)
-    print('Net girl')
+    print('Next girl')

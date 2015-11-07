@@ -3,5 +3,7 @@
 __pycache__
 
 myvenv
+myvenv.tar
+projTeste
 db.sqlite3
 .DS_Store
